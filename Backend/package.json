@@ -29,7 +29,7 @@
     "stripe": "^5.8.0",
     "token-generator": "^1.0.0",
     "word-count": "^0.2.2",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {}
 }
